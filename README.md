@@ -28,10 +28,10 @@
   <a href="mailto:contato@abismodev.com" target="_blank">
     <img title="E-mail de contato" alt="E-mail_Contato" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/well.18" target="_blank">
+  <a href="https://www.instagram.com/welli.18" target="_blank">
     <img title="Instagram" alt="Perfil_Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/abismodev/">
     <img title="Meu Linkedin" alt="Perfil_Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
