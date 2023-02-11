@@ -4,12 +4,12 @@
 - 😉 Não dispenso nenhuma oportunidade de emprego/estágio.
 - 🌱 Atualmente Estudando HTML5, CSS3, JavaScript e React JS.
 
-<!-- Aqui fica os stats
+<!-- Aqui fica os stats -->
 <div>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=abismodev&&show_icons=true&theme=radical" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abismodev&layout=compact&theme=radical" />
 </div>
--->
+<!---->
 
 ### Tecnologias que uso atualmente (sempre atualizado):
 
