@@ -1,4 +1,5 @@
 ## Olá, eu sou o @AbismoDev 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&pause=1000&color=6D07CA&width=470&lines=Ol%C3%A1%2C+me+chamo+Wellington+%22AbismoDev%22+%F0%9F%98%81;Desenvolvedor+Front-End+Web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Usando+HTML5%2C+CSS3+e+React+JS+%E2%9C%8D)](https://git.io/typing-svg)
 
 - 🔭 No momento só estudando a carreira Front-End.
 - 😉 Não dispenso nenhuma oportunidade de emprego/estágio.
