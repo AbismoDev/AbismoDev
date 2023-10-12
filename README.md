@@ -11,7 +11,7 @@
   <img align="center" title="HTML5" alt="Abismo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" title="CSS3" alt="Abismo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" title="JavaScript" alt="Abismo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" title="JavaScript" alt="Abismo-ReactJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />          
+  <!--<img align="center" title="JavaScript" alt="Abismo-ReactJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />-->          
 </div>
 <!---->
 
