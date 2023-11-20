@@ -2,7 +2,7 @@
 
 - 🔭 No momento só estudando a carreira Front-End.
 - 😉 Não dispenso nenhuma oportunidade de emprego/estágio.
-- 🌱 Atualmente Estudando HTML5, CSS3, JavaScript e React JS.
+- 🌱 Atualmente Estudando HTML5, CSS3 e JavaScript.
 
 ### Tecnologias que uso atualmente (sempre atualizado):
 
