@@ -1,8 +1,8 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=FFFFFF&width=470&lines=Ol%C3%A1%2C+me+chamo+Wellington+%22AbismoDev%22+%F0%9F%91%8B;Desenvolvedor+Front-End+Web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Usando+HTML5%2C+CSS3+e+React+JS+%E2%9C%8D)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=FFFFFF&width=470&lines=Ol%C3%A1%2C+me+chamo+Wellington+%22AbismoDev%22+%F0%9F%91%8B;Desenvolvedor+Front-End+Web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Usando+HTML5%2C+CSS3+e+JavaScript+%E2%9C%8D)](https://git.io/typing-svg)
 
-- 🔭 No momento só estudando a carreira Front-End.
-- 😉 Não dispenso nenhuma oportunidade de emprego/estágio.
-- 🌱 Atualmente Estudando HTML5, CSS3 e JavaScript.
+- 🔭 Cursando Análise e Densenvolvimento de Sistemas.
+- 😉 Não dispenso nenhuma oportunidade de estágio/emprego.
+- 🌱 Atualmente Estudando HTML5, CSS3, JavaScript e Java.
 
 ### Tecnologias que uso atualmente (sempre atualizado):
 
@@ -20,7 +20,7 @@
 
 <!-- Icons de contato -->
 <div>
-  <a href="mailto:contato@abismodev.com" target="_blank">
+  <a href="mailto:wsrosolen@gmail.com" target="_blank">
     <img title="E-mail de contato" alt="E-mail_Contato" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/welli.18" target="_blank">
