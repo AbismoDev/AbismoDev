@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Análise e Densenvolvimento de Sistemas.
 - 😉 Não dispenso nenhuma oportunidade de estágio/emprego.
-- 🌱 Atualmente Estudando HTML5, CSS3, JavaScript e Java.
+- 🌱 Atualmente Estudando JavaScript e Java.
 
 ### Tecnologias que uso atualmente (sempre atualizado):
 
